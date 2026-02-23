@@ -10,4 +10,4 @@ Démonstration de communication temps réel avec SignalR : un hub d'écho qui re
 
 ## Stack
 
-C# / ASP.NET / SignalR / jQuery
+[![Stack](https://skillicons.dev/icons?i=dotnet,jquery,cs&theme=dark)](https://skillicons.dev)
